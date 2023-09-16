@@ -17,11 +17,6 @@
 // null: It’s just a special value which represents “nothing”, “empty” or “value unknown”.
 // Symbols: A Symbol is a unique and immutable primitive value.The symbol type is used to create unique identifiers for objects.
 // Objects: Object is a value in memory which is possibly referenced by an identifier.Objects are the only mutable values.
-// Difference between Var, Let, and Const
-// - var declarations are globally scoped or function-scoped.
-// - var variables can be updated and re-declared within their scope.
-// - var variables are initialized with undefined; let and const variables are not initialized.
-// - var variables can be declared without being initialized.
 
 // Using var
 var globalVar = 10; // Declare a global variable
