@@ -1,11 +1,11 @@
-function twoNum(a, b) {
+function multiply(a, b) {
     multiply = a * b;
-    console.log( a, '*', b, '=', sum );
+    console.log( a, '*', b, '=', multiply );
 }
 twoNum(2, 1);
 
-function twoNum(a, b) {
-    sum = a - b;
-    console.log( a, '+', b, '=', sum );
+function subtract(a, b) {
+    sub = a - b;
+    console.log( a, '+', b, '=', sub );
 }
 twoNum(2, 1);
