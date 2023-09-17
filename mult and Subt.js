@@ -6,6 +6,6 @@ twoNum(2, 1);
 
 function subtract(a, b) {
     sub = a - b;
-    console.log( a, '+', b, '=', sub );
+    console.log( a, '-', b, '=', sub );
 }
 twoNum(2, 1);
