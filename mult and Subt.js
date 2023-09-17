@@ -1,11 +1,9 @@
 function multiply(a, b) {
-    multiply = a * b;
-    console.log( a, '*', b, '=', multiply );
+    console.log(a + ' * ' + b + ' = ' + (a * b));
 }
-twoNum(2, 1);
+multiply(6, 4);
 
 function subtract(a, b) {
-    sub = a - b;
-    console.log( a, '-', b, '=', sub );
+    console.log(a + ' - ' + b + ' = ' + (a - b));
 }
-twoNum(2, 1);
+subtract(42, 9);
